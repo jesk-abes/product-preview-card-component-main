@@ -17,19 +17,19 @@
 /*
   1. Use a more-intuitive box-sizing model.
 */
-/* *, *::before, *::after {
+*, *::before, *::after {
     box-sizing: border-box;
 } */
 /*
   2. Remove default margin
 */
-/* * {
+* {
     margin: 0;
 } */
   /*
     3. Allow percentage-based heights in the application
   */
-/* html, body {
+html, body {
     height: 100%;
 } */
   /*
@@ -140,6 +140,7 @@ body {
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
+    max-height: 450;
     --content-padding: 1.5rem;
     --content-spacing: 1rem;
 }
