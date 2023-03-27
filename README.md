@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
 
 ## Table of contents
 
@@ -26,11 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
+![](design/mobile-design.jpg)
+
 ![](design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [](https://master--meek-florentine-236e92.netlify.app/)
+- Solution URL: [](https://641c8b67ee28a311330f307c--meek-florentine-236e92.netlify.app/)
 
 ## My process
 
@@ -44,16 +46,21 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<p class="product_original-price">
+  <span class="visually-hidden">Original price:</span>
+  <s>$169.99</s>
+</p>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+  .visually-hidden:not(:focus):not(:active) {
+    clip: rect(0 0 0 0); 
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap; 
+    width: 1px;
 }
 ```
 
