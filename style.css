@@ -135,13 +135,14 @@ body {
   /* product styles */
 
 .card {
+    position: relative;
+    top: 450px;
+    left: 600px;
     display: grid;
     background-color: var(--clr-neutral-100);
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
-    max-height: 450px;
-    position: relative;
 }
 
 @media (min-width: 600px) {
