@@ -140,7 +140,7 @@ body {
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
-    max-height: 450;
+    height: 450px;
     --content-padding: 1.5rem;
     --content-spacing: 1rem;
 }
