@@ -65,7 +65,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- A Complete Guide to CSS Grid  - [Example resource 1](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+- A Complete Guide to CSS Grid  - [A comprehensive guide to CSS grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- A Complete Guide to Flexbox   - [This complete guide explains everything about flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 
 ## Author
 
