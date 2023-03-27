@@ -26,11 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
+![](design/mobile-design.jpg)
 ![](design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [my solution](https://641c8b67ee28a311330f307c--meek-florentine-236e92.netlify.app/)
+- Solution URL: [solution](https://641c8b67ee28a311330f307c--meek-florentine-236e92.netlify.app/)
 
 ## My process
 
