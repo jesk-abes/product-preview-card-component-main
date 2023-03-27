@@ -27,10 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![](design/desktop-design.jpg)
+![](design/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [solution](https://641c8b67ee28a311330f307c--meek-florentine-236e92.netlify.app/)
+- Solution URL: [Solution](https://github.com/jesk-abes/product-preview-card-component-main)
+- Live Site URL: [Live](https://641c8b67ee28a311330f307c--meek-florentine-236e92.netlify.app/)
 
 ## My process
 
