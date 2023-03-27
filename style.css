@@ -140,6 +140,8 @@ body {
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
+    max-height: 450px;
+    position: relative;
 }
 
 @media (min-width: 600px) {
