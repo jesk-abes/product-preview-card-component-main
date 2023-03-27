@@ -78,7 +78,7 @@ body {
 
     display: grid;
     place-content: center;
-    margin: 1rem;
+    margin: 2rem;
 }
 
   /* utilities */
@@ -140,7 +140,6 @@ body {
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
-    height: 450px;
     --content-padding: 1.5rem;
     --content-spacing: 1rem;
 }
