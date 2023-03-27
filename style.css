@@ -140,9 +140,6 @@ body {
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
-    padding-top: 1rem;
-    --content-padding: 1.5rem;
-    --content-spacing: 1rem;
 }
 
 @media (min-width: 600px) {
@@ -153,8 +150,8 @@ body {
 
 .card_content {
     display: grid;
-    gap: var(--content-spacing);
-    padding: var(--content-padding);
+    gap: 1rem;
+    padding: 1.5rem;
 }
 
 .product_category {
